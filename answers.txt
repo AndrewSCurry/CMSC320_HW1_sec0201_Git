@@ -5,3 +5,9 @@ Answer: [To keep track of version history]
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare since the patient data can be used to design algorithms to help diagnose patients
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches into a new merged commit that preserves their histories.
+        Rebase moves the  commit history of one branch onto the latest of another branch 
